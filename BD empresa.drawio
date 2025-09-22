@@ -206,7 +206,7 @@
         <mxCell id="c3NfUdWc5YNJGg_gzM98-11" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="180" as="sourcePoint" />
-            <mxPoint x="500" y="180" as="targetPoint" />
+            <mxPoint x="460" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c3NfUdWc5YNJGg_gzM98-12" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="c3NfUdWc5YNJGg_gzM98-11">
