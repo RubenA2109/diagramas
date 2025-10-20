@@ -82,6 +82,15 @@
         <mxCell id="8zlrZK70hH1nTl3RyPgM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.006;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6bJcXYdi7RKFtDTyvEfA-23" target="6bJcXYdi7RKFtDTyvEfA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8zlrZK70hH1nTl3RyPgM-70" value="R4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8zlrZK70hH1nTl3RyPgM-71" value="&lt;u&gt;NumAluno&lt;br&gt;CodCurso&lt;/u&gt;&lt;br&gt;Inicio&lt;div&gt;Conclui?&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="8zlrZK70hH1nTl3RyPgM-70">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8zlrZK70hH1nTl3RyPgM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="6bJcXYdi7RKFtDTyvEfA-23" target="8zlrZK70hH1nTl3RyPgM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
