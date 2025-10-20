@@ -68,7 +68,7 @@
         <mxCell id="8zlrZK70hH1nTl3RyPgM-24" value="&lt;div&gt;&lt;u&gt;CodDisciplina&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;CodModulo&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="8zlrZK70hH1nTl3RyPgM-23">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8zlrZK70hH1nTl3RyPgM-28" value="R2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8zlrZK70hH1nTl3RyPgM-28" value="R4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8zlrZK70hH1nTl3RyPgM-29" value="&lt;u&gt;Inicia&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;u&gt;Coclui&lt;/u&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="8zlrZK70hH1nTl3RyPgM-28">
